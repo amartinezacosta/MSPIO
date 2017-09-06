@@ -1,13 +1,13 @@
-<center>![logo](http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png)</center>
+![logo](http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png)
 
-#**UTEP Electrical Engineering**
+# **UTEP Electrical Engineering**
 
-###**MSPIO**
+### **MSPIO**
 ***
 A UART printf and gets for the MSP432, inspired by the popular [MSP430 Printf](http://www.msp430launchpad.com/2012/06/using-printf.html)
 ***
 
-###**Project Setup**
+### **Project Setup**
 ***
 In order to use the project you will need to have the [MSP432 SimpleLink SDK](http://www.ti.com/tool/SIMPLELINK-MSP432-SDK) library installed. To install it follow the link and select the SIMPLELINK-MSP432-SDK option, after the installation is complete import this project into Code Composer's Workspace. 
 
