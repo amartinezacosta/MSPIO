@@ -1,5 +1,4 @@
-<img src="http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png">
-![logo](http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png)
+<center><img src="http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png"></center>
 
 # **UTEP Electrical Engineering**
 
