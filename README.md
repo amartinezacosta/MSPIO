@@ -101,4 +101,4 @@ To send information to the MSP432 just type characters into the serial console (
  MAP_UART_transmitData(EUSCI_A0_BASE, c);
 ```
 
-I personally want to achieve a full Input/Output project, meaning that file handling must be added for this project. In a future iteration of this project I plan to include a file system so that the Input/Output will be completed. If you 
+I personally want to achieve a full Input/Output project, meaning that file handling must be added for this project. In a future iteration of this project I plan to include a file system so that the Input/Output will be completed. If you wish to contribute to this project send me a pull request with the updates, I will gladly review your changes :smiley:.
