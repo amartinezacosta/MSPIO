@@ -1,9 +1,5 @@
-<img style="margin=0 auto; display:block;" src="http://png-5.vector.me/files/images/7/5/75754/utep_miners_thumb.png">
+# **MSPIO**
 
-# **UTEP Electrical Engineering**
-
-### **MSPIO**
-***
 A UART printf and gets for the MSP432, inspired by the popular [MSP430 Printf](http://www.msp430launchpad.com/2012/06/using-printf.html)
 ***
 
